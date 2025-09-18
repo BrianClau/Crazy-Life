@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HUD YUTU.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BANNER0000" x="0" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0001" x="0" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0002" x="0" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0003" x="1119" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0004" x="1119" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0005" x="2238" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0006" x="2238" y="0" width="1119" height="164"/>
+	<SubTexture name="BANNER0007" x="0" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0008" x="0" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0009" x="0" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0010" x="1119" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0011" x="1119" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0012" x="1119" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0013" x="2238" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0014" x="2238" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0015" x="2238" y="164" width="1119" height="164"/>
+	<SubTexture name="BANNER0016" x="0" y="328" width="1119" height="164"/>
+	<SubTexture name="BANNER0017" x="0" y="328" width="1119" height="164"/>
+	<SubTexture name="BANNER0018" x="0" y="328" width="1119" height="164"/>
+	<SubTexture name="BANNER0019" x="1119" y="328" width="1119" height="164"/>
+	<SubTexture name="BANNER0020" x="2238" y="328" width="1119" height="164"/>
+	<SubTexture name="BANNER0021" x="0" y="492" width="1119" height="164"/>
+	<SubTexture name="BANNER0022" x="1119" y="492" width="1119" height="164"/>
+	<SubTexture name="BANNER0023" x="2238" y="492" width="1119" height="164"/>
+	<SubTexture name="BANNER0024" x="0" y="656" width="1119" height="164"/>
+	<SubTexture name="BANNER0025" x="1119" y="656" width="1119" height="164"/>
+	<SubTexture name="BANNER0026" x="2238" y="656" width="1119" height="164"/>
+	<SubTexture name="BANNER0027" x="0" y="820" width="1119" height="164"/>
+	<SubTexture name="BANNER0028" x="1119" y="820" width="1119" height="164"/>
+	<SubTexture name="BANNER0029" x="2238" y="820" width="1119" height="164"/>
+</TextureAtlas>

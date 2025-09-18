@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				108,
+				448
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "DownP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				203,
+				509
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "LeftP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				430
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "PIdle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				520
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "RightP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				557
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "UpP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				500,
+				740
+			],
+			"anim": "puta",
+			"fps": 24,
+			"name": "nosewei",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/plushtrapwei",
+	"position": [
+		280,
+		830
+	],
+	"healthicon": "plushtrap",
+	"flip_x": false,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		-160,
+		-280
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

@@ -1,0 +1,786 @@
+{
+	"events": [
+		[
+			20.8333333333333,
+			[
+				["Camera Follow Pos", "500", "500"]
+			]
+		],
+		[
+			20.8333333333333,
+			[
+				["Camera Follow Pos", "500", "500"]
+			]
+		],
+		[
+			8888.88888888889,
+			[
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			8888.88888888889,
+			[
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			13055.5555555556,
+			[
+				["Camera Follow Pos", "500", "500"]
+			]
+		],
+		[
+			13055.5555555556,
+			[
+				["Camera Follow Pos", "500", "500"]
+			]
+		],
+		[
+			13611.1111111111,
+			[
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			13611.1111111111,
+			[
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			16527.7777777778,
+			[
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			16527.7777777778,
+			[
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			16654.5138888889,
+			[
+				["badapplelol", "b", "0.5"]
+			]
+		],
+		[
+			16654.5138888889,
+			[
+				["badapplelol", "b", "0.5"]
+			]
+		],
+		[
+			16666.6666666667,
+			[
+				["Camera Follow Pos", "800", "400"],
+				["Bitto's zoom event", "custom", "0.9,1.8,expoOut"],
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			16666.6666666667,
+			[
+				["Camera Follow Pos", "800", "400"],
+				["Bitto's zoom event", "custom", "0.9,1.8,expoOut"],
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			17777.7777777778,
+			[
+				["Camera Follow Pos", "", ""]
+			]
+		],
+		[
+			17777.7777777778,
+			[
+				["Camera Follow Pos", "", ""]
+			]
+		],
+		[
+			35555.5555555555,
+			[
+				["Camera Follow Pos", "500", "500"],
+				["Bitto's zoom event", "custom", "1.2,0.8,expoOut"],
+				["Cam Speed", "999", ""]
+			]
+		],
+		[
+			35555.5555555555,
+			[
+				["Camera Follow Pos", "500", "500"],
+				["Bitto's zoom event", "custom", "1.2,0.8,expoOut"],
+				["Cam Speed", "999", ""]
+			]
+		],
+		[
+			35972.2222222222,
+			[
+				["Bitto's zoom event", "custom", "1.4,0.8,expoOut"]
+			]
+		],
+		[
+			35972.2222222222,
+			[
+				["Bitto's zoom event", "custom", "1.4,0.8,expoOut"]
+			]
+		],
+		[
+			36626.7361111111,
+			[
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			36626.7361111111,
+			[
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			36666.6666666666,
+			[
+				["Camera Follow Pos", "", ""],
+				["Bitto's zoom event", "custom", "0.9,1.8,expoOut"]
+			]
+		],
+		[
+			36666.6666666666,
+			[
+				["Camera Follow Pos", "", ""],
+				["Bitto's zoom event", "custom", "0.9,1.8,expoOut"]
+			]
+		],
+		[
+			44444.4444444444,
+			[
+				["Bitto's zoom event", "custom", "0.9,1.2,expoOut"]
+			]
+		],
+		[
+			53286.4583333333,
+			[
+				["Bitto's zoom event", "custom", "1.2,1.8,expoOut"],
+				["Cam Speed", "999", ""],
+				["Camera Follow Pos", "500", "500"]
+			]
+		],
+		[
+			53333.3333333333,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			54444.4444444444,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			55555.5555555555,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			56666.6666666666,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			57777.7777777777,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			58888.8888888888,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			59999.9999999999,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			61111.1111111111,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			62197.9166666666,
+			[
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			62222.2222222222,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			63333.3333333333,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			64444.4444444444,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			65555.5555555555,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			66666.6666666666,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			67777.7777777777,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			68888.8888888888,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			69999.9999999999,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			71086.8055555555,
+			[
+				["Camera Follow Pos", "850", "500"],
+				["Bitto's zoom event", "custom", "0.8,0.9,expoOut"]
+			]
+		],
+		[
+			71111.111111111,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			72222.2222222221,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			73333.3333333333,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			74444.4444444444,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			75555.5555555555,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			76666.6666666666,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			77777.7777777777,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			78888.8888888888,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			79968.7499999999,
+			[
+				["Bitto's zoom event", "custom", "1.2,0.2,expoOut"],
+				["Camera Follow Pos", "1200", "500"]
+			]
+		],
+		[
+			79999.9999999999,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			81111.111111111,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			82222.2222222221,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			83333.3333333332,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			84421.8749999999,
+			[
+				["Bitto's zoom event", "custom", "0.8,0.9,expoOut"],
+				["Camera Follow Pos", "850", "500"]
+			]
+		],
+		[
+			84444.4444444444,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			85555.5555555555,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			86666.6666666666,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			87777.7777777777,
+			[
+				["Add Camera Zoom", "0.05", "0.05"]
+			]
+		],
+		[
+			88874.9999999999,
+			[
+				["Bitto's zoom event", "custom", "0.9,0.9,expoOut"]
+			]
+		],
+		[
+			88888.8888888888,
+			[
+				["Camera Follow Pos", "", ""],
+				["Cam Speed", "1", ""]
+			]
+		],
+		[
+			151111.111111111,
+			[
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			158888.888888889,
+			[
+				["Play Animation", "intro", "GF"]
+			]
+		],
+		[
+			158958.333333333,
+			[
+				["Alt Idle Animation", "GF", "-alt"]
+			]
+		],
+		[
+			186111.111111112,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			186111.111111112,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			186250,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			186250,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			186388.888888889,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			186388.888888889,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			186527.777777778,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			186527.777777778,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			188888.888888889,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			188888.888888889,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			189027.777777778,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			189027.777777778,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			189166.666666667,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			189166.666666667,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			189305.555555556,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			189305.555555556,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			189444.444444445,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			189444.444444445,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			189722.222222223,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			189722.222222223,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			190000.000000001,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190000.000000001,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190138.888888889,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			190138.888888889,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			190277.777777778,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190277.777777778,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190416.666666667,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			190416.666666667,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			190694.444444445,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			190694.444444445,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			190833.333333334,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190833.333333334,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			190972.222222223,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			190972.222222223,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			193333.333333334,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			193333.333333334,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			194027.777777778,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			194027.777777778,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			194444.444444445,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			194444.444444445,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			194583.333333334,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			194583.333333334,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			194722.222222223,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			194722.222222223,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			194861.111111112,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			194861.111111112,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			195000.000000001,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			195000.000000001,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			195138.888888889,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			195138.888888889,
+			[
+				["Play Animation", "singLEFT", "gf"]
+			]
+		],
+		[
+			195277.777777778,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			195277.777777778,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			195416.666666667,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			195416.666666667,
+			[
+				["Play Animation", "singUP", "gf"]
+			]
+		],
+		[
+			195555.555555556,
+			[
+				["Play Animation", "singRIGHT", "gf"]
+			]
+		],
+		[
+			195555.555555556,
+			[
+				["Play Animation", "singRIGHT", "gf"],
+				["Alt Idle Animation", "BF", ""]
+			]
+		],
+		[
+			213333.333333334,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			213333.333333334,
+			[
+				["Play Animation", "singDOWN", "gf"]
+			]
+		],
+		[
+			214444.444444445,
+			[
+				["Play Animation", "muerte", "GF"],
+				["Alt Idle Animation", "GF", "-po"]
+			]
+		],
+		[
+			214444.444444445,
+			[
+				["Play Animation", "muerte", "GF"],
+				["Alt Idle Animation", "GF", "-po"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

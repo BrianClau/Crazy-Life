@@ -1,0 +1,28 @@
+{
+	"storyName": "weekdemo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week-demo",
+	"startUnlocked": false,
+	"songs": [
+		[
+			"Pastelcolors",
+			"tiny",
+			[
+				206,
+				113,
+				253
+			],
+			"Default Album"
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Demo"
+}

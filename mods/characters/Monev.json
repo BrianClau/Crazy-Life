@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				78,
+				410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "BonIdle"
+		},
+		{
+			"offsets": [
+				114,
+				414
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DownBon"
+		},
+		{
+			"offsets": [
+				264,
+				420
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LeftBon"
+		},
+		{
+			"offsets": [
+				25,
+				440
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RightBon"
+		},
+		{
+			"offsets": [
+				-56,
+				567
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UpBon"
+		},
+		{
+			"offsets": [
+				80,
+				412
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "bon",
+			"loop": false,
+			"name": "BonPinny"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Bonniwei",
+	"position": [
+		20,
+		730
+	],
+	"healthicon": "bonnie",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		45,
+		87
+	],
+	"camera_position": [
+		-160,
+		-470
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

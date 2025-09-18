@@ -1,0 +1,115 @@
+{
+	"events": [
+		[
+			115.384615384615,
+			[
+				["Alt Idle Animation", "BF", "-alt"]
+			]
+		],
+		[
+			7384.61538461538,
+			[
+				["Flash Camera", "0.8", ""],
+				["Bitto's zoom event", "custom", "1.1,0.1,expoOut"]
+			]
+		],
+		[
+			14769.2307692308,
+			[
+				["Cam Speed", "1", ""],
+				["Flash Camera", "0.8", ""],
+				["Bitto's zoom event", "custom", "0.7,0.8,expoOut"],
+				["badapplelol", "b", "0.1"]
+			]
+		],
+		[
+			42230.7692307692,
+			[
+				["Play Animation", "trans", "Dad"]
+			]
+		],
+		[
+			42461.5384615385,
+			[
+				["Play Animation", "trans", "BF"],
+				["Alt Idle Animation", "Dad", "-alt"],
+				["Alt Idle Animation", "BF", ""],
+				["Bitto's zoom event", "custom", "0.9,0.5,expoOut"],
+				["Camera Follow Pos", "670", "350"],
+				["Bitto's zoom event", "custom", "0.7,0.4,expoOut"]
+			]
+		],
+		[
+			43615.3846153846,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			43730.7692307692,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			43846.1538461538,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			43961.5384615385,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			44076.9230769231,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			44192.3076923077,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			44307.6923076923,
+			[
+				["Bitto's zoom event", "custom", "0.8,0.8,expoOut"],
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			44307.6923076923,
+			[
+				["Camera Follow Pos", "", ""],
+				["Bitto's zoom event", "custom", "0.9,0.4,expoOut"]
+			]
+		],
+		[
+			73846.1538461538,
+			[
+				["Bitto's zoom event", "custom", "1.3,0.1,expoOut"],
+				["Flash Camera", "0.8", ""],
+				["Cam Speed", "999", ""]
+			]
+		],
+		[
+			88500,
+			[
+				["Cam Speed", "0.2", ""],
+				["Bitto's zoom event", "custom", "0.9,3.8,Classic"]
+			]
+		],
+		[
+			88615.3846153846,
+			[
+				["Play Animation", "enojo", "Dad"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="NICOTRACION GAMEOVER.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bucle0000" x="2990" y="4926" width="1495" height="821"/>
+	<SubTexture name="final0000" x="2990" y="4926" width="1495" height="821"/>
+	<SubTexture name="final0001" x="0" y="0" width="1495" height="821"/>
+	<SubTexture name="final0002" x="1495" y="0" width="1495" height="821"/>
+	<SubTexture name="final0003" x="2990" y="0" width="1495" height="821"/>
+	<SubTexture name="final0004" x="4485" y="0" width="1495" height="821"/>
+	<SubTexture name="final0005" x="5980" y="0" width="1495" height="821"/>
+	<SubTexture name="final0006" x="0" y="821" width="1495" height="821"/>
+	<SubTexture name="final0007" x="1495" y="821" width="1495" height="821"/>
+	<SubTexture name="final0008" x="2990" y="821" width="1495" height="821"/>
+	<SubTexture name="final0009" x="4485" y="821" width="1495" height="821"/>
+	<SubTexture name="final0010" x="5980" y="821" width="1495" height="821"/>
+	<SubTexture name="final0011" x="0" y="1642" width="1495" height="821"/>
+	<SubTexture name="final0012" x="1495" y="1642" width="1495" height="821"/>
+	<SubTexture name="final0013" x="2990" y="1642" width="1495" height="821"/>
+	<SubTexture name="final0014" x="4485" y="1642" width="1495" height="821"/>
+	<SubTexture name="inicio0000" x="4485" y="1642" width="1495" height="821"/>
+	<SubTexture name="inicio0001" x="5980" y="1642" width="1495" height="821"/>
+	<SubTexture name="inicio0002" x="0" y="2463" width="1495" height="821"/>
+	<SubTexture name="inicio0003" x="1495" y="2463" width="1495" height="821"/>
+	<SubTexture name="inicio0004" x="2990" y="2463" width="1495" height="821"/>
+	<SubTexture name="inicio0005" x="4485" y="2463" width="1495" height="821"/>
+	<SubTexture name="inicio0006" x="5980" y="2463" width="1495" height="821"/>
+	<SubTexture name="inicio0007" x="0" y="3284" width="1495" height="821"/>
+	<SubTexture name="inicio0008" x="1495" y="3284" width="1495" height="821"/>
+	<SubTexture name="inicio0009" x="2990" y="3284" width="1495" height="821"/>
+	<SubTexture name="inicio0010" x="4485" y="3284" width="1495" height="821"/>
+	<SubTexture name="inicio0011" x="5980" y="3284" width="1495" height="821"/>
+	<SubTexture name="inicio0012" x="0" y="4105" width="1495" height="821"/>
+	<SubTexture name="inicio0013" x="1495" y="4105" width="1495" height="821"/>
+	<SubTexture name="inicio0014" x="2990" y="4105" width="1495" height="821"/>
+	<SubTexture name="inicio0015" x="4485" y="4105" width="1495" height="821"/>
+	<SubTexture name="inicio0016" x="5980" y="4105" width="1495" height="821"/>
+	<SubTexture name="inicio0017" x="0" y="4926" width="1495" height="821"/>
+	<SubTexture name="inicio0018" x="1495" y="4926" width="1495" height="821"/>
+	<SubTexture name="inicio0019" x="2990" y="4926" width="1495" height="821"/>
+</TextureAtlas>

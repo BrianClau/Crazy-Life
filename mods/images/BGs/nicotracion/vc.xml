@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="vcs.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="VC BCS0000" x="0" y="0" width="268" height="61"/>
+	<SubTexture name="VC BCS0001" x="0" y="0" width="268" height="61"/>
+	<SubTexture name="VC BCS0002" x="0" y="61" width="268" height="61"/>
+	<SubTexture name="VC EN0000" x="0" y="122" width="268" height="63"/>
+	<SubTexture name="VC EN0001" x="0" y="122" width="268" height="63"/>
+	<SubTexture name="VC EN0002" x="0" y="185" width="268" height="63"/>
+	<SubTexture name="VC LTZ0000" x="0" y="248" width="268" height="57"/>
+	<SubTexture name="VC LTZ0001" x="0" y="248" width="268" height="57"/>
+	<SubTexture name="VC LTZ0002" x="0" y="305" width="268" height="57"/>
+</TextureAtlas>

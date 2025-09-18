@@ -1,0 +1,88 @@
+{
+	"storyName": "weekdemo",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"decay",
+			"bcs",
+			[
+				235,
+				0,
+				33
+			],
+			"Default Album"
+		],
+		[
+			"cursedworld",
+			"criztal",
+			[
+				235,
+				133,
+				253
+			],
+			"Default Album"
+		],
+		[
+			"redentor",
+			"eduard",
+			[
+				0,
+				33,
+				253
+			],
+			"Default Album"
+		],
+		[
+			"sumo",
+			"sumo",
+			[
+				195,
+				133,
+				73
+			],
+			"Default Album"
+		],
+		[
+			"mute",
+			"dav",
+			[
+				255,
+				133,
+				253
+			],
+			"Default Album"
+		],
+		[
+			"nicotracion",
+			"firex",
+			[
+				255,
+				215,
+				95
+			],
+			"Default Album"
+		],
+		[
+			"blackdog",
+			"checko",
+			[
+				86,
+				93,
+				253
+			],
+			"Default Album"
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hideStoryMode": true,
+	"hiddenUntilUnlocked": false,
+	"weekName": "Demo"
+}

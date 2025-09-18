@@ -1,0 +1,88 @@
+{
+	"events": [
+		[
+			9142.85714285714,
+			[
+				["Flash Camera", "0.3", ""]
+			]
+		],
+		[
+			26285.7142857143,
+			[
+				["Bitto's zoom event", "custom", "1.2,0.9,expoOut"]
+			]
+		],
+		[
+			27428.5714285714,
+			[
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			27428.5714285714,
+			[
+				["Bitto's zoom event", "custom", "1,0.9,expoOut"]
+			]
+		],
+		[
+			45714.2857142857,
+			[
+				["Flash Camera", "0.4", ""]
+			]
+		],
+		[
+			45714.2857142857,
+			[
+				["Bitto's zoom event", "custom", "1.2,0.9,expoOut"]
+			]
+		],
+		[
+			82285.7142857143,
+			[
+				["Bitto's zoom event", "custom", "1,0.9,expoOut"],
+				["Camera Follow Pos", "700", "600"]
+			]
+		],
+		[
+			109714.285714286,
+			[
+				["Camera Follow Pos", "", ""],
+				["Bitto's zoom event", "custom", "1.2,0.9,expoOut"]
+			]
+		],
+		[
+			126850,
+			[
+				["Camera Follow Pos", "900", "600"]
+			]
+		],
+		[
+			126857.142857143,
+			[
+				["Bitto's zoom event", "custom", "1.3,0.9,expoOut"],
+				["Cam Speed", "999", ""]
+			]
+		],
+		[
+			127285.714285714,
+			[
+				["Camera Follow Pos", "500", "600"]
+			]
+		],
+		[
+			127714.285714286,
+			[
+				["Camera Follow Pos", "900", "600"]
+			]
+		],
+		[
+			128000,
+			[
+				["Cam Speed", "999", ""],
+				["Bitto's zoom event", "custom", "1,0.9,expoOut"],
+				["Camera Follow Pos", "700", "600"]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

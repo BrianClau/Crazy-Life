@@ -1,0 +1,221 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				117,
+				159
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [
+				-4,
+				163
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rmiss"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				69,
+				375
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				67,
+				368
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				372
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				75,
+				377
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				64,
+				390
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				65,
+				71
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				287
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "umiss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				110,
+				270
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				130,
+				140
+			],
+			"anim": "singLEFTmiss-alt",
+			"fps": 24,
+			"name": "lmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				150
+			],
+			"anim": "singRIGHTmiss-alt",
+			"fps": 24,
+			"name": "rmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				60,
+				40
+			],
+			"anim": "singDOWNmiss-alt",
+			"fps": 24,
+			"name": "dmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				271
+			],
+			"anim": "singUPmiss-alt",
+			"fps": 24,
+			"name": "umiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				188,
+				454
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				443
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				193,
+				432
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				80,
+				390
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt urr",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/roxigoo",
+	"position": [
+		220,
+		610
+	],
+	"healthicon": "roxigo",
+	"flip_x": true,
+	"healthbar_colors": [
+		111,
+		204,
+		36
+	],
+	"camera_position": [
+		280,
+		-400
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

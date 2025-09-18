@@ -1,0 +1,15 @@
+---------CHARACTER CODES--------
+danceLeft
+danceRight
+deathloop
+firstDeath
+deathConfirm
+idle
+singRight
+singDOWN
+singLEFT
+singUP
+singRightmiss
+singDOWNmiss
+singLEFTmiss
+singUPmiss

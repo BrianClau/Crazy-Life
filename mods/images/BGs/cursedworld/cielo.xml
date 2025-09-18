@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cielo.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cielo0000" x="0" y="0" width="4127" height="1097" frameX="0" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0001" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0002" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0003" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0004" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0005" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0006" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0007" x="0" y="1097" width="4082" height="1055" frameX="-149" frameY="-24" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0008" x="4082" y="1097" width="4082" height="1079" frameX="-149" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0009" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0010" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0011" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0012" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0013" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0014" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0015" x="0" y="2176" width="4127" height="1121" frameX="0" frameY="0" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0016" x="0" y="3297" width="4127" height="1098" frameX="0" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0017" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0018" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0019" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0020" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0021" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0022" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0023" x="0" y="4395" width="4082" height="1056" frameX="-149" frameY="-23" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0024" x="4082" y="4395" width="4082" height="1075" frameX="-149" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0025" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0026" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0027" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0028" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0029" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0030" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+	<SubTexture name="cielo0031" x="0" y="5470" width="4127" height="1117" frameX="0" frameY="-4" frameWidth="4231" frameHeight="1121"/>
+</TextureAtlas>

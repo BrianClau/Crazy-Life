@@ -1,0 +1,119 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [17, 186],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [49, -12],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [0, 1, 2, 3, 4, 5]
+		},
+		{
+			"offsets": [208, 1529],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "intro"
+		},
+		{
+			"offsets": [141, 130],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "right"
+		},
+		{
+			"offsets": [-120, 111],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [108, 196],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [50, -732],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [0, 0],
+			"anim": "idle-po",
+			"fps": 24,
+			"name": "muerte",
+			"indices": [15, 16, 17]
+		},
+		{
+			"offsets": [-140, 50],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "lmiss"
+		},
+		{
+			"offsets": [-50, 160],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"fps": 24,
+			"anim": "singUPmiss",
+			"loop": false,
+			"name": "umiss"
+		},
+		{
+			"offsets": [140, 120],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "rmiss"
+		},
+		{
+			"offsets": [38, -132],
+			"indices": [0, 1, 2, 3, 4, 5],
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"loop": false,
+			"name": "dmiss"
+		},
+		{
+			"offsets": [151, 517],
+			"indices": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+			"fps": 24,
+			"anim": "muerte",
+			"loop": false,
+			"name": "muerte"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/ambery",
+	"position": [450, 430],
+	"healthicon": "amber",
+	"flip_x": true,
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-255, -90],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": false
+}

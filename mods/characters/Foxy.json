@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				78,
+				410
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "FoxyIdle"
+		},
+		{
+			"offsets": [
+				164,
+				484
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "DownFoxy"
+		},
+		{
+			"offsets": [
+				233,
+				430
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "LeftFoxy"
+		},
+		{
+			"offsets": [
+				74,
+				567
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "UpFoxy"
+		},
+		{
+			"offsets": [
+				65,
+				480
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "RightFoxy"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Foxiwei",
+	"position": [
+		-20,
+		640
+	],
+	"healthicon": "foxy",
+	"flip_x": false,
+	"healthbar_colors": [
+		52,
+		45,
+		87
+	],
+	"camera_position": [
+		-100,
+		-350
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

@@ -1,0 +1,109 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				33,
+				211
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-45,
+				608
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				116,
+				429
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-124,
+				484
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-105,
+				464
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": [
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				477
+			],
+			"anim": "boom",
+			"fps": 24,
+			"name": "boom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-29,
+				477
+			],
+			"indices": [
+				20,
+				20
+			],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "boom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/sumardoenojado",
+	"position": [
+		20,
+		630
+	],
+	"healthicon": "sumo",
+	"flip_x": false,
+	"healthbar_colors": [
+		231,
+		172,
+		131
+	],
+	"camera_position": [
+		60,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

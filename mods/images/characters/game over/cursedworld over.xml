@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cursedworld over.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inicio0000" x="0" y="0" width="1115" height="663"/>
+	<SubTexture name="inicio0001" x="0" y="0" width="1115" height="663"/>
+	<SubTexture name="inicio0002" x="0" y="0" width="1115" height="663"/>
+	<SubTexture name="inicio0003" x="0" y="0" width="1115" height="663"/>
+	<SubTexture name="inicio0004" x="0" y="663" width="1115" height="663"/>
+	<SubTexture name="inicio0005" x="0" y="663" width="1115" height="663"/>
+	<SubTexture name="inicio0006" x="0" y="663" width="1115" height="663"/>
+	<SubTexture name="inicio0007" x="0" y="663" width="1115" height="663"/>
+</TextureAtlas>

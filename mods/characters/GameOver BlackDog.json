@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [-2320, -2330],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathloop",
+			"indices": [],
+			"name": "inicio"
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "blackdog over",
+			"indices": []
+		},
+		{
+			"offsets": [-2080, -2090],
+			"indices": [],
+			"fps": 24,
+			"anim": "deathConfirm",
+			"loop": true,
+			"name": "BlackDog Die"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/game over/blackdog over",
+	"position": [10, 0],
+	"healthicon": "foxy",
+	"flip_x": false,
+	"healthbar_colors": [52, 45, 87],
+	"camera_position": [-20, 10],
+	"sing_duration": 4,
+	"scale": 1.4,
+	"_editor_isPlayer": true
+}

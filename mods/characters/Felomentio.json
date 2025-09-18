@@ -1,0 +1,151 @@
+{
+	"animations": [
+		{
+			"offsets": [10, -17],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [0, 1, 2, 3, 4, 5],
+			"name": "down"
+		},
+		{
+			"offsets": [48, -2],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "left"
+		},
+		{
+			"offsets": [25, 11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "up"
+		},
+		{
+			"offsets": [-47, -13],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "right"
+		},
+		{
+			"offsets": [145, -289],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "dmiss"
+		},
+		{
+			"offsets": [-106, 178],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "umiss"
+		},
+		{
+			"offsets": [207, -11],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "lmiss"
+		},
+		{
+			"offsets": [-134, -18],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "rmiss"
+		},
+		{
+			"offsets": [-15, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [0, 1, 2, 3, 4, 5],
+			"name": "alt down"
+		},
+		{
+			"offsets": [-15, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "alt left"
+		},
+		{
+			"offsets": [-15, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "alt up"
+		},
+		{
+			"offsets": [-15, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "alt right"
+		},
+		{
+			"offsets": [81, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim1",
+			"indices": [],
+			"name": "anim1"
+		},
+		{
+			"offsets": [-2, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "anim2",
+			"indices": [],
+			"name": "anim2"
+		},
+		{
+			"offsets": [-9, 2],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "anim4"
+		},
+		{
+			"loop": false,
+			"offsets": [6, -3],
+			"anim": "anim3",
+			"fps": 24,
+			"name": "anim3",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79, 79]
+		},
+		{
+			"loop": true,
+			"offsets": [-4, 1],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/felomeno",
+	"position": [160, 230],
+	"healthicon": "felh",
+	"flip_x": true,
+	"healthbar_colors": [255, 212, 0],
+	"camera_position": [50, 0],
+	"sing_duration": 5.5,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}

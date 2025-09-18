@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				210
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-118,
+				203
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				235
+			],
+			"anim": "singUP",
+			"fps": 21,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-77,
+				224
+			],
+			"anim": "singLEFT",
+			"fps": 20,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-162,
+				209
+			],
+			"anim": "singRIGHT",
+			"fps": 18,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-103,
+				240
+			],
+			"loop": false,
+			"fps": 21,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "alt up"
+		},
+		{
+			"offsets": [
+				-81,
+				215
+			],
+			"loop": false,
+			"fps": 20,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "alt left"
+		},
+		{
+			"offsets": [
+				-107,
+				224
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "razon",
+			"indices": [],
+			"name": "trans"
+		},
+		{
+			"offsets": [
+				-127,
+				241
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "alt right"
+		},
+		{
+			"offsets": [
+				-111,
+				210
+			],
+			"loop": false,
+			"fps": 19,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "alt down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-106,
+				245
+			],
+			"anim": "gritoclau",
+			"fps": 24,
+			"name": "glitch",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-107,
+				225
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "trans",
+			"indices": [
+				40,
+				41
+			]
+		},
+		{
+			"offsets": [
+				-115,
+				223
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle-alt",
+			"loop": true,
+			"name": "alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/brianclaudios",
+	"position": [
+		-130,
+		250
+	],
+	"healthicon": "bcs",
+	"flip_x": false,
+	"healthbar_colors": [
+		194,
+		11,
+		11
+	],
+	"camera_position": [
+		150,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

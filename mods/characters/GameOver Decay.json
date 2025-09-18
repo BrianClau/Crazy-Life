@@ -1,0 +1,39 @@
+{
+	"animations": [
+		{
+			"offsets": [-91, -401],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathloop",
+			"indices": [],
+			"name": "loop"
+		},
+		{
+			"loop": false,
+			"offsets": [-91, -401],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "loop",
+			"indices": [2, 3]
+		},
+		{
+			"loop": false,
+			"offsets": [10, -190],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "inicio",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/game over/decay over",
+	"position": [40, 10],
+	"healthicon": "foxy",
+	"flip_x": true,
+	"healthbar_colors": [52, 45, 87],
+	"camera_position": [150, 200],
+	"sing_duration": 4,
+	"scale": 1.1,
+	"_editor_isPlayer": true
+}

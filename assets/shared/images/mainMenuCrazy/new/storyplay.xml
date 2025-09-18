@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="storyplay.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="StoryPlay0000" x="0" y="0" width="545" height="100"/>
+	<SubTexture name="StoryPlay0001" x="0" y="0" width="545" height="100"/>
+	<SubTexture name="StoryPlay0002" x="0" y="0" width="545" height="100"/>
+	<SubTexture name="StoryPlay0003" x="0" y="0" width="545" height="100"/>
+	<SubTexture name="StoryPlay0004" x="0" y="100" width="545" height="100"/>
+	<SubTexture name="StoryPlay0005" x="0" y="100" width="545" height="100"/>
+	<SubTexture name="StoryPlay0006" x="0" y="100" width="545" height="100"/>
+	<SubTexture name="StoryPlay0007" x="0" y="100" width="545" height="100"/>
+	<SubTexture name="StoryPlay select0000" x="0" y="200" width="522" height="96" frameX="-2" frameY="0" frameWidth="526" frameHeight="97"/>
+	<SubTexture name="StoryPlay select0001" x="0" y="200" width="522" height="96" frameX="-2" frameY="0" frameWidth="526" frameHeight="97"/>
+	<SubTexture name="StoryPlay select0002" x="0" y="200" width="522" height="96" frameX="-2" frameY="0" frameWidth="526" frameHeight="97"/>
+	<SubTexture name="StoryPlay select0003" x="0" y="200" width="522" height="96" frameX="-2" frameY="0" frameWidth="526" frameHeight="97"/>
+	<SubTexture name="StoryPlay select0004" x="0" y="296" width="526" height="97"/>
+	<SubTexture name="StoryPlay select0005" x="0" y="296" width="526" height="97"/>
+	<SubTexture name="StoryPlay select0006" x="0" y="296" width="526" height="97"/>
+	<SubTexture name="StoryPlay select0007" x="0" y="296" width="526" height="97"/>
+</TextureAtlas>

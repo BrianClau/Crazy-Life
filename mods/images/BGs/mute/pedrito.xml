@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pedrito.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Pedrito0000" x="0" y="0" width="490" height="487" frameX="0" frameY="-16" frameWidth="490" frameHeight="503"/>
+	<SubTexture name="Pedrito0001" x="490" y="0" width="490" height="503"/>
+	<SubTexture name="Pedrito0002" x="0" y="503" width="490" height="487" frameX="0" frameY="-16" frameWidth="490" frameHeight="503"/>
+	<SubTexture name="Pedrito0003" x="490" y="503" width="490" height="503"/>
+</TextureAtlas>

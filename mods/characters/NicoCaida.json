@@ -1,0 +1,136 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				195,
+				180
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "nico",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				211,
+				99
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nico",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				296,
+				171
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nico",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				205,
+				292
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nico",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				93,
+				184
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nico",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/hormiga",
+	"position": [
+		160,
+		410
+	],
+	"healthicon": "nicollora",
+	"flip_x": true,
+	"healthbar_colors": [
+		161,
+		161,
+		161
+	],
+	"camera_position": [
+		110,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

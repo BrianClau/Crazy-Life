@@ -1,0 +1,104 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				112,
+				228
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				172,
+				229
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				95,
+				236
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				103,
+				271
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				101,
+				251
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				110,
+				250
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "danceRight",
+			"indices": [
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			],
+			"name": "idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tiny fly",
+	"position": [
+		890,
+		440
+	],
+	"healthicon": "tiny",
+	"flip_x": false,
+	"healthbar_colors": [
+		187,
+		121,
+		207
+	],
+	"camera_position": [
+		-126,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.3
+}

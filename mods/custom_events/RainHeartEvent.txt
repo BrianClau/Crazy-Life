@@ -1,0 +1,6 @@
+Implementa un efecto de lluvia de corazones en pantalla.
+Uso:
+- Para iniciar la lluvia de corazones: Solo coloca el evento
+- Para detener la lluvia de corazones: Value 1: stop
+
+Value 2: fallspeed/velocidad de caida. min 250

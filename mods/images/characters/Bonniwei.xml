@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bonniwei.png">
+	<!-- Created with Adobe Animate version 24.0.1.329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BonIdle0000" x="34" y="34" width="687" height="1013" frameX="-14" frameY="-24" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0001" x="34" y="34" width="687" height="1013" frameX="-14" frameY="-24" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0002" x="821" y="34" width="690" height="1017" frameX="-9" frameY="-20" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0003" x="821" y="34" width="690" height="1017" frameX="-9" frameY="-20" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0004" x="1611" y="34" width="697" height="1019" frameX="-2" frameY="-18" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0005" x="1611" y="34" width="697" height="1019" frameX="-2" frameY="-18" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0006" x="2408" y="34" width="700" height="1033" frameX="0" frameY="-5" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0007" x="2408" y="34" width="700" height="1033" frameX="0" frameY="-5" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0008" x="3208" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0009" x="3208" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0010" x="4008" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0011" x="4008" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0012" x="4008" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0013" x="4008" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonIdle0014" x="4008" y="34" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0000" x="4808" y="34" width="687" height="1013" frameX="-14" frameY="-24" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0001" x="4808" y="34" width="687" height="1013" frameX="-14" frameY="-24" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0002" x="5595" y="34" width="690" height="1017" frameX="-9" frameY="-20" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0003" x="5595" y="34" width="690" height="1017" frameX="-9" frameY="-20" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0004" x="6385" y="34" width="697" height="1019" frameX="-2" frameY="-18" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0005" x="6385" y="34" width="697" height="1019" frameX="-2" frameY="-18" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0006" x="7182" y="34" width="700" height="1033" frameX="0" frameY="-5" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0007" x="7182" y="34" width="700" height="1033" frameX="0" frameY="-5" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0008" x="34" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0009" x="34" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0010" x="834" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0011" x="834" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0012" x="834" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0013" x="834" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="BonPinny0014" x="834" y="1172" width="700" height="1038" frameX="0" frameY="0" frameWidth="701" frameHeight="1038"/>
+	<SubTexture name="DownBon0000" x="1634" y="1172" width="823" height="987" frameX="0" frameY="-70" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0001" x="1634" y="1172" width="823" height="987" frameX="0" frameY="-70" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0002" x="2557" y="1172" width="798" height="1003" frameX="-17" frameY="-57" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0003" x="2557" y="1172" width="798" height="1003" frameX="-17" frameY="-57" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0004" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0005" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0006" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0007" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0008" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0009" x="3455" y="1172" width="759" height="1022" frameX="-41" frameY="-43" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0010" x="4314" y="1172" width="729" height="1067" frameX="-55" frameY="0" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="DownBon0011" x="4314" y="1172" width="729" height="1067" frameX="-55" frameY="0" frameWidth="823" frameHeight="1067"/>
+	<SubTexture name="LeftBon0000" x="5143" y="1172" width="864" height="1046"/>
+	<SubTexture name="LeftBon0001" x="5143" y="1172" width="864" height="1046"/>
+	<SubTexture name="LeftBon0002" x="6107" y="1172" width="834" height="1040" frameX="-30" frameY="-6" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0003" x="6107" y="1172" width="834" height="1040" frameX="-30" frameY="-6" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0004" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0005" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0006" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0007" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0008" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0009" x="7041" y="1172" width="827" height="1038" frameX="-37" frameY="-8" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0010" x="34" y="2339" width="801" height="995" frameX="-63" frameY="-51" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="LeftBon0011" x="34" y="2339" width="801" height="995" frameX="-63" frameY="-51" frameWidth="864" frameHeight="1046"/>
+	<SubTexture name="RightBon0000" x="935" y="2339" width="921" height="1028" frameX="-1" frameY="0" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0001" x="935" y="2339" width="921" height="1028" frameX="-1" frameY="0" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0002" x="1956" y="2339" width="881" height="1019" frameX="-1" frameY="-9" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0003" x="1956" y="2339" width="881" height="1019" frameX="-1" frameY="-9" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0004" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0005" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0006" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0007" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0008" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0009" x="2937" y="2339" width="874" height="1018" frameX="-1" frameY="-10" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0010" x="3911" y="2339" width="808" height="1004" frameX="0" frameY="-24" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="RightBon0011" x="3911" y="2339" width="808" height="1004" frameX="0" frameY="-24" frameWidth="922" frameHeight="1028"/>
+	<SubTexture name="UpBon0000" x="4819" y="2339" width="506" height="1119" frameX="0" frameY="0" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0001" x="4819" y="2339" width="506" height="1119" frameX="0" frameY="0" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0002" x="5425" y="2339" width="497" height="1062" frameX="-10" frameY="-56" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0003" x="5425" y="2339" width="497" height="1062" frameX="-10" frameY="-56" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0004" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0005" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0006" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0007" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0008" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0009" x="6022" y="2339" width="490" height="1055" frameX="-17" frameY="-63" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0010" x="6612" y="2339" width="483" height="1013" frameX="-29" frameY="-105" frameWidth="512" frameHeight="1119"/>
+	<SubTexture name="UpBon0011" x="6612" y="2339" width="483" height="1013" frameX="-29" frameY="-105" frameWidth="512" frameHeight="1119"/>
+</TextureAtlas>

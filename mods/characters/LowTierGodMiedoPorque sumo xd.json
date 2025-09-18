@@ -1,0 +1,63 @@
+{
+	"animations": [
+		{
+			"offsets": [-105, 474],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		},
+		{
+			"offsets": [-47, 251],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "altd"
+		},
+		{
+			"offsets": [-234, 464],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "altr"
+		},
+		{
+			"offsets": [-56, 629],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "altu"
+		},
+		{
+			"offsets": [26, 479],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "altl"
+		},
+		{
+			"offsets": [-74, 503],
+			"indices": [],
+			"fps": 24,
+			"anim": "confused",
+			"loop": false,
+			"name": "sorpresa"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/low tier good",
+	"position": [20, 630],
+	"healthicon": "LTG",
+	"flip_x": true,
+	"healthbar_colors": [255, 182, 0],
+	"camera_position": [90, -300],
+	"sing_duration": 4,
+	"scale": 1,
+	"_editor_isPlayer": true
+}

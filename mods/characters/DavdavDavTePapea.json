@@ -1,0 +1,127 @@
+{
+	"animations": [
+		{
+			"offsets": [-13, -4],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "up"
+		},
+		{
+			"offsets": [-15, -6],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [0, 1, 2, 3, 4, 5],
+			"name": "down"
+		},
+		{
+			"offsets": [-9, 0],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "left"
+		},
+		{
+			"offsets": [0, 1],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [50, 90],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "missu",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [70, -30],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "missl",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [20, -23],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "missd",
+			"indices": [0, 1, 2, 3, 4, 5]
+		},
+		{
+			"loop": false,
+			"offsets": [50, 0],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "missr",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "alt up",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "alt down",
+			"indices": [0, 1, 2, 3, 4, 5]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "alt right",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "alt left",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
+		},
+		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "alt idle",
+			"indices": []
+		},
+		{
+			"offsets": [20, 30],
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+			"fps": 12,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle"
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/davdavdavtedestruye",
+	"position": [-10, 60],
+	"healthicon": "dav",
+	"flip_x": true,
+	"healthbar_colors": [214, 121, 185],
+	"camera_position": [94, 90],
+	"sing_duration": 4,
+	"scale": 0.9,
+	"_editor_isPlayer": true
+}

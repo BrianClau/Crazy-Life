@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="decay over.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="inicio0000" x="0" y="0" width="377" height="527" frameX="0" frameY="-25" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0001" x="0" y="0" width="377" height="527" frameX="0" frameY="-25" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0002" x="377" y="0" width="383" height="542" frameX="-10" frameY="-14" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0003" x="760" y="0" width="383" height="542" frameX="-10" frameY="-14" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0004" x="1143" y="0" width="382" height="554" frameX="-37" frameY="-3" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0005" x="1143" y="0" width="382" height="554" frameX="-37" frameY="-3" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0006" x="1525" y="0" width="385" height="555" frameX="-37" frameY="-1" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0007" x="0" y="555" width="385" height="555" frameX="-37" frameY="-1" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0008" x="385" y="555" width="384" height="554" frameX="-43" frameY="0" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0009" x="385" y="555" width="384" height="554" frameX="-43" frameY="0" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0010" x="769" y="555" width="444" height="492" frameX="-48" frameY="-34" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0011" x="1213" y="555" width="455" height="491" frameX="-60" frameY="-59" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0012" x="0" y="1110" width="399" height="335" frameX="-87" frameY="-210" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0013" x="0" y="1110" width="399" height="335" frameX="-87" frameY="-210" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0014" x="399" y="1110" width="379" height="360" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0015" x="399" y="1110" width="379" height="360" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0016" x="778" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0017" x="778" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0018" x="1157" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0019" x="1157" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0020" x="1157" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0021" x="1157" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0022" x="1536" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0023" x="1536" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0024" x="1536" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="inicio0025" x="1536" y="1110" width="379" height="363" frameX="-92" frameY="-192" frameWidth="515" frameHeight="557"/>
+	<SubTexture name="loop0000" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0001" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0002" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0003" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0004" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0005" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0006" x="758" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0007" x="758" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0008" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0009" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0010" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0011" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0012" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0013" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0014" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0015" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0016" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0017" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0018" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0019" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0020" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0021" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0022" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0023" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0024" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0025" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0026" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0027" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0028" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0029" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0030" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0031" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0032" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0033" x="1137" y="1473" width="379" height="359" frameX="0" frameY="0" frameWidth="379" frameHeight="363"/>
+	<SubTexture name="loop0034" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0035" x="0" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0036" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0037" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0038" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0039" x="379" y="1473" width="379" height="363"/>
+	<SubTexture name="loop0040" x="0" y="1473" width="379" height="363"/>
+</TextureAtlas>

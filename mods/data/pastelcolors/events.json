@@ -1,0 +1,76 @@
+{
+	"song": {
+		"events": [
+			[
+				1846.15384615385,
+				[
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				44307.6923076923,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"2.3,1.9,expoIn"
+					]
+				]
+			],
+			[
+				46136.5384615385,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"2.3,0.05,Classic"
+					]
+				]
+			],
+			[
+				46153.8461538461,
+				[
+					[
+						"Change Character",
+						"BF",
+						"DavPastelColors"
+					],
+					[
+						"Change Character",
+						"Dad",
+						"TinyPastel"
+					],
+					[
+						"Flash Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				46153.8461538461,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"1.65,2.5,expoOut"
+					]
+				]
+			],
+			[
+				77538.4615384615,
+				[
+					[
+						"Bitto's zoom event",
+						"custom",
+						"2.5,2.5,expoOut"
+					]
+				]
+			]
+		]
+	}
+}

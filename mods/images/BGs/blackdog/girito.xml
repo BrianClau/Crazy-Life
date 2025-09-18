@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="espiralll.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="spiral0000" x="0" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0001" x="500" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0002" x="1000" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0003" x="1500" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0004" x="2000" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0005" x="2500" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0006" x="3000" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0007" x="3500" y="0" width="500" height="500"/>
+	<SubTexture name="spiral0008" x="0" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0009" x="500" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0010" x="1000" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0011" x="1500" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0012" x="2000" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0013" x="2500" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0014" x="3000" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0015" x="3500" y="500" width="500" height="500"/>
+	<SubTexture name="spiral0016" x="0" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0017" x="500" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0018" x="1000" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0019" x="1500" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0020" x="2000" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0021" x="2500" y="1000" width="500" height="500"/>
+	<SubTexture name="spiral0022" x="3000" y="1000" width="500" height="500"/>
+</TextureAtlas>
