@@ -3875,6 +3875,12 @@
 			]
 		],
 		[
+			17762.1527777778,
+			[
+				["IntroSong", "", ""]
+			]
+		],
+		[
 			17777.7777777778,
 			[
 				["Camera Follow Pos", "", ""]
@@ -4570,7 +4576,7 @@
 	],
 	"player2": "BCSMute",
 	"gameOverSound": "Rivals GameOver",
-	"gameOverLoop": "GameMuteOver",
+	"gameOverLoop": "GameMuteOverss",
 	"disableNoteRGB": true,
 	"gameOverChar": "GameOver Mute",
 	"gameOverEnd": "MusicGmeMuteOver",

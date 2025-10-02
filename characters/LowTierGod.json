@@ -1,84 +1,84 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [-57, 281],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": []
+			"indices": [],
+			"name": "down"
 		},
 		{
-			"loop": false,
 			"offsets": [-56, 609],
+			"loop": false,
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": []
+			"indices": [],
+			"name": "up"
 		},
 		{
-			"loop": false,
 			"offsets": [16, 499],
+			"loop": false,
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": []
+			"indices": [],
+			"name": "left"
 		},
 		{
-			"loop": false,
 			"offsets": [-224, 464],
-			"anim": "singRIGHT",
+			"loop": false,
 			"fps": 24,
-			"name": "right",
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [-104, 474],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "idle",
 			"indices": []
 		},
 		{
-			"offsets": [-104, 474],
 			"loop": false,
-			"fps": 24,
-			"anim": "idle-alt",
-			"indices": [],
-			"name": "idle"
-		},
-		{
 			"offsets": [-105, 474],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "idle"
+			"fps": 24,
+			"name": "idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-50, 270],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN-alt",
-			"loop": false,
-			"name": "altd"
+			"fps": 24,
+			"name": "altd",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-19, 488],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT-alt",
-			"loop": false,
-			"name": "altl"
+			"fps": 24,
+			"name": "altl",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [-227, 460],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT-alt",
-			"loop": false,
-			"name": "altr"
+			"fps": 24,
+			"name": "altr",
+			"indices": []
 		},
 		{
-			"offsets": [-60, 610],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP-alt",
 			"loop": false,
-			"name": "altu"
+			"offsets": [-60, 610],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "altu",
+			"indices": []
 		}
 	],
 	"vocals_file": "",
@@ -88,7 +88,7 @@
 	"healthicon": "LTG",
 	"flip_x": true,
 	"healthbar_colors": [255, 182, 0],
-	"camera_position": [80, -300],
+	"camera_position": [80, -350],
 	"sing_duration": 4,
 	"scale": 1,
 	"_editor_isPlayer": true

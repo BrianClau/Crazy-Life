@@ -1,7 +1,7 @@
 ---------CHARACTER CODES--------
 danceLeft
 danceRight
-deathloop
+deathLoop
 firstDeath
 deathConfirm
 idle

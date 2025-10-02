@@ -47,16 +47,16 @@
 	<SubTexture name="miss0007" x="0" y="779" width="679" height="384"/>
 	<SubTexture name="miss0008" x="0" y="779" width="679" height="384"/>
 	<SubTexture name="miss0009" x="0" y="779" width="679" height="384"/>
-	<SubTexture name="off lesle0000" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0001" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0002" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0003" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0004" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0005" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0006" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0007" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0008" x="1358" y="0" width="679" height="384"/>
-	<SubTexture name="off lesle0009" x="1358" y="0" width="679" height="384"/>
+	<SubTexture name="off lesle0000" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0001" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0002" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0003" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0004" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0005" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0006" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0007" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0008" x="0" y="384" width="679" height="384"/>
+	<SubTexture name="off lesle0009" x="0" y="384" width="679" height="384"/>
 	<SubTexture name="right0000" x="679" y="779" width="679" height="384"/>
 	<SubTexture name="right0001" x="679" y="779" width="679" height="384"/>
 	<SubTexture name="right0002" x="1358" y="779" width="679" height="384"/>

@@ -2,8 +2,16 @@
 <TextureAtlas imagePath="pedrito.png">
 	<!-- Created with Adobe Animate version 22.0.3.179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="Pedrito0000" x="0" y="0" width="490" height="487" frameX="0" frameY="-16" frameWidth="490" frameHeight="503"/>
-	<SubTexture name="Pedrito0001" x="490" y="0" width="490" height="503"/>
-	<SubTexture name="Pedrito0002" x="0" y="503" width="490" height="487" frameX="0" frameY="-16" frameWidth="490" frameHeight="503"/>
-	<SubTexture name="Pedrito0003" x="490" y="503" width="490" height="503"/>
+	<SubTexture name="pedrito instancia 10000" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10001" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10002" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10003" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10004" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10005" x="0" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10006" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10007" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10008" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10009" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10010" x="400" y="0" width="400" height="400"/>
+	<SubTexture name="pedrito instancia 10011" x="400" y="0" width="400" height="400"/>
 </TextureAtlas>

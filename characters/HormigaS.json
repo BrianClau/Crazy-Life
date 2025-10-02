@@ -1,136 +1,55 @@
 {
 	"animations": [
 		{
+			"offsets": [-5, 0],
 			"loop": false,
-			"offsets": [
-				-5,
-				0
-			],
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "idle",
-			"indices": []
+			"indices": [],
+			"name": "idle"
 		},
 		{
+			"offsets": [-29, -41],
 			"loop": false,
-			"offsets": [
-				-29,
-				-41
-			],
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "down",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5
-			]
+			"indices": [0, 1, 2, 3, 4, 5],
+			"name": "down"
 		},
 		{
+			"offsets": [86, 21],
 			"loop": false,
-			"offsets": [
-				86,
-				21
-			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "left",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "left"
 		},
 		{
+			"offsets": [-35, 122],
 			"loop": false,
-			"offsets": [
-				-35,
-				122
-			],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "up",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "up"
 		},
 		{
+			"offsets": [-137, 14],
 			"loop": false,
-			"offsets": [
-				-137,
-				14
-			],
-			"anim": "singRIGHT",
 			"fps": 24,
-			"name": "right",
-			"indices": [
-				0,
-				1,
-				2,
-				3,
-				4,
-				5,
-				6,
-				7,
-				8,
-				9,
-				10,
-				11,
-				12,
-				13,
-				14,
-				15
-			]
+			"anim": "singRIGHT",
+			"indices": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+			"name": "right"
 		}
 	],
+	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/hormiga",
-	"position": [
-		160,
-		410
-	],
+	"position": [210, 200],
 	"healthicon": "hormiga",
 	"flip_x": true,
-	"healthbar_colors": [
-		161,
-		161,
-		161
-	],
-	"camera_position": [
-		70,
-		-120
-	],
+	"healthbar_colors": [161, 161, 161],
+	"camera_position": [-10, 80],
 	"sing_duration": 4,
-	"scale": 0.3
+	"scale": 0.3,
+	"_editor_isPlayer": false
 }

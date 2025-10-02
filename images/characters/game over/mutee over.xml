@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mutee over.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="die instancia 10000" x="0" y="0" width="1007" height="877"/>
+	<SubTexture name="die instancia 10001" x="1007" y="0" width="956" height="877" frameX="-51" frameY="0" frameWidth="1007" frameHeight="877"/>
+	<SubTexture name="die instancia 10002" x="0" y="877" width="903" height="877" frameX="-104" frameY="0" frameWidth="1007" frameHeight="877"/>
+	<SubTexture name="die instancia 10003" x="903" y="877" width="922" height="877" frameX="-85" frameY="0" frameWidth="1007" frameHeight="877"/>
+</TextureAtlas>

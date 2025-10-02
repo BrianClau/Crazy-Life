@@ -16,6 +16,12 @@
 			]
 		],
 		[
+			14740.3846153846,
+			[
+				["IntroSong", "", ""]
+			]
+		],
+		[
 			14769.2307692308,
 			[
 				["Cam Speed", "1", ""],
@@ -1408,6 +1414,7 @@
 	],
 	"gfVersion": "gf",
 	"disableNoteRGB": true,
+	"gameOverChar": "GameOver Sumo",
 	"song": "sumo",
 	"needsVoices": true,
 	"stage": "SumoBGs",

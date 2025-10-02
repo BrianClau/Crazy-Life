@@ -1,14 +1,6 @@
 {
 	"animations": [
 		{
-			"loop": false,
-			"offsets": [0, 0],
-			"anim": "firstDeath",
-			"fps": 24,
-			"name": "inicio",
-			"indices": []
-		},
-		{
 			"loop": true,
 			"offsets": [0, 0],
 			"anim": "deathConfirm",
@@ -17,11 +9,19 @@
 			"indices": []
 		},
 		{
+			"loop": false,
+			"offsets": [0, 0],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "inicio",
+			"indices": []
+		},
+		{
 			"offsets": [0, 0],
 			"indices": [],
 			"fps": 24,
-			"anim": "deathloop",
-			"loop": false,
+			"anim": "deathLoop",
+			"loop": true,
 			"name": "inicio"
 		}
 	],

@@ -11,6 +11,12 @@ function onCreate()
 	addLuaSprite('stagelight_right', false);
 	addLuaSprite('stagecurtains', false);
 
+	makeAnimatedLuaSprite('pedro', 'BGs/mute/pedrito', -70, 300)
+    addAnimationByPrefix('pedro', 'pedrito instancia 1',   'pedrito instancia 1',    24, true)
+    addLuaSprite('pedro', false)
+    scaleObject('pedro', 1, 1)
+    playAnim('pedro', 'pedrito instancia 1', true)
+
 	makeAnimatedLuaSprite('mute video', 'BGs/mute/mutecinematica',0, 0);
 	scaleObject('mute video', 1.7, 1.7);
 	addLuaSprite('mute video', false);

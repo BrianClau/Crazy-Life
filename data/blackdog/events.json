@@ -37,17 +37,36 @@
 			]
 		],
 		[
+			82282.0312500001,
+			[
+				["blackdog", "start", ""]
+			]
+		],
+		[
 			82285.7142857143,
 			[
-				["Bitto's zoom event", "custom", "1,0.9,expoOut"],
-				["Camera Follow Pos", "700", "600"]
+				["Bitto's zoom event", "custom", "0.8,1.9,expoOut"],
+				["Camera Follow Pos", "700", "600"],
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			109700,
+			[
+				["Flash Camera", "0.8", ""]
+			]
+		],
+		[
+			109710.714285714,
+			[
+				["blackdog", "end", ""]
 			]
 		],
 		[
 			109714.285714286,
 			[
 				["Camera Follow Pos", "", ""],
-				["Bitto's zoom event", "custom", "1.2,0.9,expoOut"]
+				["Bitto's zoom event", "custom", "1.2,1.9,expoOut"]
 			]
 		],
 		[

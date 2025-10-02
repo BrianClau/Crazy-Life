@@ -5,8 +5,6 @@ function onCreatePost()
         noteTweenX('defaultPlayerStrumX1', 5, 1500, 0.5, ' linear')
         noteTweenX('defaultPlayerStrumX2', 6, 1500, 0.5, ' linear')   
         noteTweenX('defaultPlayerStrumX3', 7, 1500, 0.5, ' linear')
-    
-
 
         setProperty("healthBar.alpha", 0)
         setProperty("iconP1.alpha", 0)

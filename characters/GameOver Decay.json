@@ -1,38 +1,38 @@
 {
 	"animations": [
 		{
-			"offsets": [-91, -401],
-			"loop": true,
+			"offsets": [-98, -411],
+			"loop": false,
 			"fps": 24,
-			"anim": "deathloop",
-			"indices": [],
+			"anim": "deathConfirm",
+			"indices": [2, 3],
 			"name": "loop"
 		},
 		{
+			"offsets": [3, -200],
 			"loop": false,
-			"offsets": [-91, -401],
-			"anim": "deathConfirm",
 			"fps": 24,
-			"name": "loop",
-			"indices": [2, 3]
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "inicio"
 		},
 		{
-			"loop": false,
-			"offsets": [10, -190],
-			"anim": "firstDeath",
+			"offsets": [-98, -411],
+			"loop": true,
 			"fps": 24,
-			"name": "inicio",
-			"indices": []
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "loop"
 		}
 	],
 	"vocals_file": "",
 	"no_antialiasing": false,
 	"image": "characters/game over/decay over",
-	"position": [40, 10],
+	"position": [40, -80],
 	"healthicon": "foxy",
 	"flip_x": true,
 	"healthbar_colors": [52, 45, 87],
-	"camera_position": [150, 200],
+	"camera_position": [-30, 340],
 	"sing_duration": 4,
 	"scale": 1.1,
 	"_editor_isPlayer": true
